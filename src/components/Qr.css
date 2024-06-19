@@ -55,3 +55,65 @@ button{
 .don:hover{
     background-color: #219a52;
 }
+
+/* Add these styles to your Qr.css file */
+
+.gen {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .gen:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  
+  .don {
+    background-color: #008CBA; /* Blue background */
+    color: white; /* White text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .don:hover {
+    background-color: #007bb5; /* Darker blue on hover */
+  }
+  
+  .record-button {
+    background-color: #f44336; /* Red background */
+    color: white; /* White text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .record-button:hover {
+    background-color: #d32f2f; /* Darker red on hover */
+  }
+  
+  .stop-button {
+    background-color: #ff9800; /* Orange background */
+    color: white; /* White text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .stop-button:hover {
+    background-color: #fb8c00; /* Darker orange on hover */
+  }
+  
+  
